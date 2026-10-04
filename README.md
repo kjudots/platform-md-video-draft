@@ -6,5 +6,5 @@
 
 ## 영상 보기
 
-[platform-md-career-film-v2.mp4](./platform-md-career-film-v2.mp4)
+[나레이션 수정본 보기](./platform-md-career-film-v2-audiofix.mp4)
 
